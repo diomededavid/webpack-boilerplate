@@ -63,3 +63,4 @@ typings/
 
 #php storm .idea folder
 .idea
+\.DS_Store
