@@ -2,7 +2,9 @@
   "name": "webpack-boilerplate",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "David Diomede <david@d2creativedesign.com>",
+  "repository": "https://github.com/diomededavid/webpack-boilerplate",
+  "credit": "Based on tutorial by: Margarita Obraztsova",
+  "link": "https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1",
   "license": "MIT",
   "scripts": {
     "dev": "webpack --mode development",
