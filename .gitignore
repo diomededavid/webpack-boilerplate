@@ -62,4 +62,4 @@ typings/
 .next
 
 #php storm .idea folder
-.idea
+.idea/*
