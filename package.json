@@ -25,8 +25,11 @@
     "sass-loader": "^7.0.3",
     "style-loader": "^0.21.0",
     "webpack": "^4.12.0",
+    "webpack-assets-manifest": "^3.0.1",
     "webpack-cli": "^3.0.8",
-    "webpack-md5-hash": "^0.0.6",
-    "webpack-assets-manifest": "^3.0.1"
+    "webpack-md5-hash": "^0.0.6"
+  },
+  "dependencies": {
+    "webpack-dev-server": "^3.2.1"
   }
 }
